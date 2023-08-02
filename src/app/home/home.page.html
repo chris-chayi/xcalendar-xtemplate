@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-title>
+      My gift calendar
+    </ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="openInfo()">
+        <ion-icon slot="icon-only" name="information"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="snow" #snow></div>
+  <ion-grid>
+    <ion-row>
+      <ion-col *ngFor="let item of days" size-xl="3" size-md="4" size-xs="6">
+        <div class="tile" [class.can-open]="item['canOpen']" [style.background]="item.style" [style.font-size]="item.font ? item.font : '50pt'" tappable
+          (click)="openTile(item.day)">
+          {{ item.day }}
+          <ion-icon name="checkmark-done" color="light" *ngIf="item['canOpen']"></ion-icon>
+        </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

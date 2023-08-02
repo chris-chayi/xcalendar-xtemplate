@@ -1,0 +1,114 @@
+[
+    {
+        "day": 1,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 2,
+        "style": "var(--ion-color-primary)",
+        "font": "55pt"
+    },
+    {
+        "day": 3,
+        "style": "var(--ion-color-warning)",
+        "font": "45pt"
+    },
+    {
+        "day": 4,
+        "style": "var(--ion-color-secondary)",
+        "font": "40pt"
+    },
+    {
+        "day": 5,
+        "style": "var(--ion-color-danger)",
+        "font": "45pt"
+    },
+    {
+        "day": 6,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 7,
+        "style": "var(--ion-color-tertiary)",
+        "font": "60pt"
+    },
+    {
+        "day": 8,
+        "style": "var(--ion-color-warning)",
+        "font": "52pt"
+    },
+    {
+        "day": 9,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 10,
+        "style": "var(--ion-color-danger)",
+        "font": "55pt"
+    },
+    {
+        "day": 11,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 12,
+        "style": "var(--ion-color-primary)",
+        "font": "40pt"
+    },
+    {
+        "day": 13,
+        "style": "var(--ion-color-warning)",
+        "font": "55pt"
+    },
+    {
+        "day": 14,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 15,
+        "style": "var(--ion-color-secondary)",
+        "font": "60pt"
+    },
+    {
+        "day": 16,
+        "style": "var(--ion-color-danger)"
+    },
+    {
+        "day": 17,
+        "style": "var(--ion-color-primary)",
+        "font": "65pt"
+    },
+    {
+        "day": 18,
+        "style": "var(--ion-color-warning)",
+        "font": "45pt"
+    },
+    {
+        "day": 19,
+        "style": "var(--ion-color-success)"
+    },
+    {
+        "day": 20,
+        "style": "var(--ion-color-secondary)",
+        "font": "55pt"
+    },
+    {
+        "day": 21,
+        "style": "var(--ion-color-tertiary)",
+        "font": "45pt"
+    },
+    {
+        "day": 22,
+        "style": "var(--ion-color-warning)"
+    },
+    {
+        "day": 23,
+        "style": "var(--ion-color-success)",
+        "font": "40pt"
+    },
+    {
+        "day": 24,
+        "style": "var(--ion-color-danger)",
+        "font": "65pt"
+    }
+]
